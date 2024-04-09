@@ -1,0 +1,7 @@
+to make the code work correctly, install these libraries:
+
+telebot
+types
+os
+random
+requests
